@@ -1,0 +1,23 @@
+{
+  "name": "webscrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HBerg75/Peppeter_Webscrapping_NODE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HBerg75/Peppeter_Webscrapping_NODE/issues"
+  },
+  "homepage": "https://github.com/HBerg75/Peppeter_Webscrapping_NODE#readme",
+  "dependencies": {
+    "puppeteer": "^10.4.0"
+  }
+}
